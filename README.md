@@ -1,2 +1,2 @@
 # RoutineGenerator
-Generate Annual schedule
+Generate Annual schedule for schools
